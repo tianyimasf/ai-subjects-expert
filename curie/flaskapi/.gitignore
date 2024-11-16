@@ -29,3 +29,5 @@ Thumbs.db
 # Miscellaneous
 *.bak
 *.tmp
+
+/data
